@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="124px" height="248px" viewBox="0 0 124 248" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page1" transform="translate(-932.000000, -229.000000)">
+            <g id="Group" transform="translate(922.000000, 229.000000)">
+                <path d="M120.854066,176.5 L65.1455916,176.5 L47.6382674,247.5 L133.40387,247.5 L120.854066,176.5 Z" id="Rectangle" stroke="#2E8B57" fill="#2E8B57"></path>
+                <line x1="63.5" y1="200.5" x2="123.5" y2="200.5" id="Line-2" stroke-opacity="0.85" stroke="#000000" stroke-width="3" stroke-linecap="square"></line>
+                <path d="M47,40.7382812 C47,40.7382812 62.5,56.4205729 93.5,87.7851562 L90.1218157,119.244759 L84.0273438,176" id="Path-2" stroke="#174003" stroke-width="3"></path>
+                <path d="M46.2773438,55.5 C46.2773438,55.5 2,55.5 2,55.5 C2,55.5 11.1701381,37 24.1386719,37 C33.30881,37 46.2773438,55.5 46.2773438,55.5 Z" id="Path-3" stroke="#6DD400" fill="#6DD400" transform="translate(24.138672, 46.250000) rotate(-36.000000) translate(-24.138672, -46.250000) "></path>
+                <path d="M70.2773438,77.5 C70.2773438,77.5 26,77.5 26,77.5 C26,77.5 35.1701381,59 48.1386719,59 C57.30881,59 70.2773438,77.5 70.2773438,77.5 Z" id="Path-3" stroke="#6DD400" fill="#6DD400" transform="translate(48.138672, 68.250000) rotate(-20.000000) translate(-48.138672, -68.250000) "></path>
+                <path d="M121.277344,71.5 C121.277344,71.5 77,71.5 77,71.5 C77,71.5 86.1701381,53 99.1386719,53 C108.30881,53 121.277344,71.5 121.277344,71.5 Z" id="Path-3" stroke="#6DD400" fill="#6DD400" transform="translate(99.138672, 62.250000) rotate(143.000000) translate(-99.138672, -62.250000) "></path>
+                <path d="M87.2773438,33.5 C87.2773438,33.5 43,33.5 43,33.5 C43,33.5 52.1701381,15 65.1386719,15 C74.30881,15 87.2773438,33.5 87.2773438,33.5 Z" id="Path-3" stroke="#6DD400" fill="#6DD400" transform="translate(65.138672, 24.250000) rotate(113.000000) translate(-65.138672, -24.250000) "></path>
+                <line x1="61" y1="212" x2="121" y2="212" id="Line-2" stroke-opacity="0.85" stroke="#000000" stroke-width="3" stroke-linecap="square"></line>
+            </g>
+        </g>
+    </g>
+</svg>

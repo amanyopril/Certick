@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="27px" viewBox="0 0 85 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-3.6%" y="-12.5%" width="107.2%" height="125.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="0.970778252" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.319986979">
+        <g id="Page1" transform="translate(-1128.000000, -490.000000)" fill="#FFA446">
+            <g id="Group" transform="translate(1130.000000, 491.000000)">
+                <ellipse id="Oval-Copy-2" filter="url(#filter-1)" cx="40.4902097" cy="12.3270228" rx="40.4490938" ry="11.6196969"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
