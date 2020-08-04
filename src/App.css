@@ -14,10 +14,23 @@ body {
   height: 30px;
 }
 
-.App-header {
-  height: 56px;
+.nav-tabs {
+  border: 0;
   box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.25);
   background-color: #ffffff;
+}
+
+.nav-tabs .nav-link.active {
+  background-color: transparent;
+  font-weight: bold;
+}
+
+.nav-tabs .nav-link {
+  border: 0;
+  outline: none;
+  color: #414141;
+  font-size: 14px;
+  padding: 20px 30px;
 }
 
 .App-intro {
@@ -185,6 +198,16 @@ body {
 
   .whyus-img-block .whyus-img2 {
     width: 50%;
+  }
+
+  .nav-tabs {
+    padding: 10px 0;
+  }
+
+  .nav-tabs .nav-link {
+    padding: 10px 15px;
+    display: block;
+    width: 100%;
   }
 
 
