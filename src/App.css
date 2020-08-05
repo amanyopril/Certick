@@ -51,7 +51,7 @@ body {
 }
 
 .title {
-  font-size: 6rem;
+  font-size: 5.5rem;
   line-height: 1.04;
   font-weight: 500;
   letter-spacing: 5px;
@@ -63,7 +63,6 @@ body {
   font-weight: 500;
   line-height: 1.79;
   letter-spacing: 2.92px;
-  text-align: justify;
 }
 
 .title3 {
@@ -109,6 +108,7 @@ body {
   border: solid 1px #1a73e8;
   background-color: #1a73e8;
   border-radius: 0;
+  line-height: 45px;
 }
 
 .startups-educations {
@@ -143,12 +143,13 @@ body {
 .greentree1 {
   position: absolute;
   top: 0px;
-  right: 290px;
+  right: 250px;
 }
+
 .mud1 {
   position: absolute;
   top: 140px;
-  right: 250px;
+  right: 180px;
   width: 14%;
 }
 

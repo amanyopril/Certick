@@ -55,7 +55,7 @@ console.log("tab name :: ", tabname);
                     recruitment process for there firm, the process are seamless
                     and innovative with a assurace of great mind onboard.
                   </p>
-                  <button className="btn p1-btn">Let’s connect</button>
+                  <a className="btn p1-btn" href="mailto:namrata12dec@gmail.com">Let’s connect</a>
                   <p className="title-desc desc2 mt-5">
                     we help our clinets which we are proud of our expertise.
                   </p>
@@ -63,19 +63,19 @@ console.log("tab name :: ", tabname);
                 </div>
                 <div className="col-md-3"></div>
                 <div className="col-md-4 col-lg-4 col-xs-12 whyus-img-block">
-                <img src={flowerpot} className="mt-5 pt-5 mr-5 whyus-img1" alt="character" />
+                <img src={flowerpot} className="mt-5 pt-5s whyus-img1" alt="character" />
                 <img src={character} className="whyus-img2" alt="character" />
                 </div>
               </div>
               </div>
             </div>
           </Tab>
-          <Tab eventKey="ourprocess" title="Our process">
+          <Tab eventKey="contactus" title="Contact us">
             <div
               className="tab-pane fade show active"
-              id="nav-ourprocess"
+              id="nav-contactus"
               role="tabpanel"
-              aria-labelledby="nav-ourprocess-tab"
+              aria-labelledby="nav-contactus-tab"
             >
               <div className="container-fluid mx-lr">
                 <div className="row">
@@ -86,7 +86,7 @@ console.log("tab name :: ", tabname);
                       of quaified candidats<br />Write us and we will do our best to
                       reach you at your perfect time.
                     </p>
-                    <button className="btn p1-btn mt-5">Let’s connect</button>
+                    <a className="btn p1-btn mt-5" href="mailto:namrata12dec@gmail.com">Let’s connect</a>
                   </div>
                   <div className="col-md-4"></div>
                   <div className="col-md-2 mt-4">
@@ -100,13 +100,13 @@ console.log("tab name :: ", tabname);
               </div>
             </div>
           </Tab>
-          <Tab eventKey="contactus" title="Contact us">
-            <div
-              className="tab-pane fade show active"
-              id="nav-contactus"
-              role="tabpanel"
-              aria-labelledby="nav-contactus-tab"
-            >
+          <Tab eventKey="ourprocess" title="Our process">
+          <div
+            className="tab-pane fade show active"
+            id="nav-ourprocess"
+            role="tabpanel"
+            aria-labelledby="nav-ourprocess-tab"
+          >          
               <div className="container-fluid mx-lr">
                 <div className="row position-relative">
                   <div className="col-md-3 m-auto ">
